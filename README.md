@@ -1,3 +1,3 @@
 # BookList App
 
-A basic booklist app to learn Redux
+A basic booklist app to practice Redux
